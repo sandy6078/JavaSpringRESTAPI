@@ -1,5 +1,9 @@
 # JavaSpringRESTAPI
  Spring REST API Maven with H2 in-mem database
+## Requirements
+Java 17 SDK
+## Download
+[Latest release](https://github.com/sandy6078/JavaSpringRESTAPI/releases/tag/0.0.1)
 ## Tests
 ### GET (all)
 ![get_all_books](screenshots/get_all_books.png)
