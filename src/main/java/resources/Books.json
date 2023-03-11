@@ -1,0 +1,137 @@
+{
+    "1":{
+        "name":"Moby-Dick",
+        "author":"Herman Melville",
+        "publicationDate":"1851",
+        "publisher":"Richard Bentley",
+        "genre":{"1":"adventure_fiction","2":"epic","3":"sea_story","4":"encyclopedic_novel"},
+        "price":"15.00",
+        "stock":"99"
+    },
+    "2":{
+        "name":"Don Quixote Part 1",
+        "author":"Miguel de Cervantes",
+        "publicationDate":"1612",
+        "publisher":"Francisco de Robles",
+        "genre":{"1":"novel"},
+        "price":"10.00",
+        "stock":"99"
+    },
+    "3":{
+        "name":"The Lord Of The Rings",
+        "author":"John Tolkien",
+        "publicationDate":"1954",
+        "publisher":"Allen & Unwin",
+        "genre":{"1":"high_fantasy","2":"adventure"},
+        "price":"14.00",
+        "stock":"89"
+    },
+    "4":{
+        "name":"The Little Prince",
+        "author":"Antoine de Saint-Exupery",
+        "publicationDate":"1943",
+        "publisher":"Reynal & Hitchcock",
+        "genre":{"1":"novel","2":"fantasy"},
+        "price":"9.00",
+        "stock":"70"
+    },
+    "5":{
+        "name":"Harry Potter and the Philosopher’s Stone",
+        "author":"Joanne Rowling",
+        "publicationDate":"1997",
+        "publisher":"Bloomsbury",
+        "genre":{"1":"fantasy"},
+        "price":"11.00",
+        "stock":"99"
+    },
+    "6":{
+        "name":"And Then There Were None",
+        "author":"Agatha Christie",
+        "publicationDate":"1939",
+        "publisher":"Collins Crime Club",
+        "genre":{"1":"mystery","2":"crime","3":"psychological_thriller"},
+        "price":"9.90",
+        "stock":"66"
+    },
+    "7":{
+        "name":"The Hobbit",
+        "author":"John Tolkien",
+        "publicationDate":"1937",
+        "publisher":"George Allen & Unwin",
+        "genre":{"1":"high_fantasy","2":"juvenile_fantasy"},
+        "price":"10.90",
+        "stock":"99"
+    },
+    "8":{
+        "name":"The Da Vinci Code",
+        "author":"Dan Brown",
+        "publicationDate":"2003",
+        "publisher":"Doubleday",
+        "genre":{"1":"mystery","2":"detective_fiction","3":"conspiracy_fiction","4":"thriller"},
+        "price":"12.90",
+        "stock":"40"
+    },
+    "9":{
+        "name":"The Alchemist",
+        "author":"Paulo Coelho",
+        "publicationDate":"1988",
+        "publisher":"HarperTorch",
+        "genre":{"1":"quest","2":"adventure_fiction","3":"fantasy_literature"},
+        "price":"8.99",
+        "stock":"23"
+    },
+    "10":{
+        "name":"You Can Heal Your Life",
+        "author":"Louise Hay",
+        "publicationDate":"1984",
+        "publisher":"Hay House",
+        "genre":{"1":"selfhelp_book"},
+        "price":"5.99",
+        "stock":"12"
+    },
+    "11":{
+        "name":"Black Beauty",
+        "author":"Anna Sewell",
+        "publicationDate":"1877",
+        "publisher":"Jarrold & Sons",
+        "genre":{"1":"childrens_literature"},
+        "price":"9.99",
+        "stock":"56"
+    },
+    "12":{
+        "name":"The Eagle Has Landed",
+        "author":"Jack Higgins",
+        "publicationDate":"1975",
+        "publisher":"Collins",
+        "genre":{"1":"war","2":"thriller_novel"},
+        "price":"12.99",
+        "stock":"88"
+    },
+    "13":{
+        "name":"Watership Down",
+        "author":"Richard Adams",
+        "publicationDate":"1972",
+        "publisher":"Collins",
+        "genre":{"1":"fantasy"},
+        "price":"10.99",
+        "stock":"73"
+    },
+    "14":{
+        "name":"Charlotte's Web",
+        "author":"E. B. White",
+        "publicationDate":"1952",
+        "publisher":"Harper & Brothers",
+        "genre":{"1":"childrens_literature"},
+        "price":"7.99",
+        "stock":"24"
+    },
+    "15":{
+        "name":"The Diary of A Young Girl",
+        "author":"Anne Frank",
+        "publicationDate":"1947",
+        "publisher":"Contact Publishing",
+        "genre":{"1":"autobiography"},
+        "price":"20.99",
+        "stock":"99"
+    }
+}
