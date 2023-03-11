@@ -35,3 +35,8 @@ Deleting book `5` and the return body containing the book deleted
 ![delete_book_15_2](screenshots/delete_book_15_2.png)
 <br>
 An attempt to delete an non existing book
+<br>
+## Data Model
+![data_model](screenshots/data_model.png)
+<br>
+Represntation of the data relationship model of the database; as you can see one book can have many orders and one client can have many orders.
